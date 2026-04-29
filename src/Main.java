@@ -35,6 +35,15 @@ class Main4 {
     }
 }
 
+//3 задание (3 вариант)
+class Main10 {
+    public static void main(String[] args) {
+        String first = "Hello";
+        String second = "World";
+        System.out.println(first + " " + second);
+    }
+}
+
 //4 задание (1 вариант - сделала на примере урока 5)
 class Main5 {
     public static void main(String[] args) {
