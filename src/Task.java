@@ -23,16 +23,7 @@ class Task3 {
     }
 }
 
-class Task4_1 {
-    public static void main(String[] args) {
-        String name = "Anna";
-        int age = 20;
-        String yearsOld = String.format("%s is %d", name, age);
-        System.out.println(yearsOld);
-    }
-}
-
-class Task4_2 {
+class Task4 {
     public static void main(String[] args) {
         String name = "Anna";
         int age = 20;
